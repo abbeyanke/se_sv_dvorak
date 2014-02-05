@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:17
+-keep class com.cc.dvorakvorak.InputDeviceReceiver { <init>(...); }
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">se_sv_dvorak for android</string>
+		<string name="keyboard_layouts_label">se_sv_dvorak</string>
+		<string name="se_sv_dvorak_label">tlundqvist Dvorak (SE)</string>
+</resources>
