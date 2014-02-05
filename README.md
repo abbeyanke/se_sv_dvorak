@@ -1,7 +1,7 @@
 se_sv_dvorak
 ============
 
-The se_sv_dvorak layout by tlundqvist, ported to android by me.
+The se_sv_dvorak layout by tlundqvist (tlundqvist.org/sv_dvorak/), ported to android by me.
 
 This is for physical keyboards.
 
