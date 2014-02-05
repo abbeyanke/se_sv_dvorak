@@ -7,5 +7,5 @@ This is for physical keyboards.
 
 This has only been tested with an apple bluetooth keyboard for my xperia z ultra. Please report any successes or errors to me.
 
-After installing the package, connect your keyboard and go to settings > language & input > you keyboard: choose tlundqvist Dvorak (SE)
+After installing the package, connect your keyboard and go to settings > language & input > your keyboard: choose tlundqvist Dvorak (SE)
 
